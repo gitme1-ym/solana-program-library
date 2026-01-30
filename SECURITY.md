@@ -11,3 +11,4 @@ the security policy in individual repos:
 * [stake-pool](https://github.com/solana-program/stake-pool/security)
 * [token](https://github.com/solana-program/token/security)
 * [token-2022](https://github.com/solana-program/token-2022/security)
+https://github.com/solana-labs/solana-program-library/actions/workflows/pull-request-account-compression.yml
