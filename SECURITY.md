@@ -1,4 +1,4 @@
-## This repo will be archived soon
+[![Account Compression Pull Request](https://github.com/solana-labs/solana-program-library/actions/workflows/pull-request-account-compression.yml/badge.svg)](https://github.com/solana-labs/solana-program-library/actions/workflows/pull-request-account-compression.yml)## This repo will be archived soon
 Active development in this repo is ending 2024-03-02. Anza is continuing development
 in program-specific repos under the
 [solana-program organization](https://github.com/solana-program). Please refer to 
