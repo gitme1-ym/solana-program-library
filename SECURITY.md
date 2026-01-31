@@ -11,3 +11,4 @@ the security policy in individual repos:
 * [stake-pool](https://github.com/solana-program/stake-pool/security)
 * [token](https://github.com/solana-program/token/security)
 * [token-2022](https://github.com/solana-program/token-2022/security)
+[![codemention](https://github.com/expo/expo/actions/workflows/codemention.yaml/badge.svg?branch=main&event=branch_protection_rule)](https://github.com/expo/expo/actions/workflows/codemention.yaml)
